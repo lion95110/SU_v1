@@ -8,6 +8,11 @@
 /Test_1/[Tt]emp/
 /Test_1/[Oo]bj/
 
+# Roulette 폴더 내부의 Library, Temp 제외
+/Roulette/[Ll]ibrary/
+/Roulette/[Tt]emp/
+/Roulette/[Oo]bj/
+
 # 기타 파일들
 *.csproj
 *.unityproj
