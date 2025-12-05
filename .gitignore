@@ -1,0 +1,29 @@
+# F_Test 폴더 내부의 Library, Temp 제외
+/F_Test/[Ll]ibrary/
+/F_Test/[Tt]emp/
+/F_Test/[Oo]bj/
+
+# Test_1 폴더 내부의 Library, Temp 제외
+/Test_1/[Ll]ibrary/
+/Test_1/[Tt]emp/
+/Test_1/[Oo]bj/
+
+# Roulette 폴더 내부의 Library, Temp 제외
+/Roulette/[Ll]ibrary/
+/Roulette/[Tt]emp/
+/Roulette/[Oo]bj/
+
+# SwipeCar 폴더 내부의 Library, Temp 제외
+/SwipeCar/[Ll]ibrary/
+/SwipeCar/[Tt]emp/
+/SwipeCar/[Oo]bj/
+/SwipeCar/[Bb]uild/
+/SwipeCar/Car_IOS/
+
+# 기타 파일들
+*.csproj
+*.unityproj
+*.sln
+.vs/
+.DS_Store
+*.log
