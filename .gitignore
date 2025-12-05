@@ -13,6 +13,13 @@
 /Roulette/[Tt]emp/
 /Roulette/[Oo]bj/
 
+# SwipeCar 폴더 내부의 Library, Temp 제외
+/SwipeCar/[Ll]ibrary/
+/SwipeCar/[Tt]emp/
+/SwipeCar/[Oo]bj/
+/SwipeCar/[Bb]uild/
+/SwipeCar/Car_IOS/
+
 # 기타 파일들
 *.csproj
 *.unityproj
