@@ -20,6 +20,11 @@
 /SwipeCar/[Bb]uild/
 /SwipeCar/Car_IOS/
 
+# CatEscape 폴더 내부의 Library, Temp 제외
+/CatEscape/[Ll]ibrary/
+/CatEscape/[Tt]emp/
+/CatEscape/[Oo]bj/
+
 # 기타 파일들
 *.csproj
 *.unityproj
